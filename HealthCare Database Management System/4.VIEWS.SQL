@@ -1,0 +1,13 @@
+Select * from PatientPerDoctor;
+
+select * from claimstatus;
+
+SELECT * FROM ALLPOLICIES;
+
+SELECT * FROM CORPORATECLIENTS;
+
+SELECT * FROM AGENTDATA;
+
+SELECT * FROM CUSTOMERDATA;
+
+SELECT * FROM CLAIMRANK;
